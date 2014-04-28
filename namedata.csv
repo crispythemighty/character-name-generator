@@ -1,0 +1,8 @@
+norwegian,male,prefix,au,ao,cr,ei,br,bj,hj,nj,od,ol,skj,sj,sv,fr,ing,th,tr,ym,kr,kn,gl,a,b,d,e,f,g,h,i,j,k,l,m,n,p,r,s,t,u,v
+norwegian,male,suffix,vor,ver,var,vur,dor,der,dar,dur,by,valdr,nulfr,mir,sten,rn,jov,jof,r,n,nd,l
+norwegian,male,restrict,q,w,x,z,y
+norwegian,male,double,l,n,r,t
+norwegian,female,prefix,alf,as,br,ei,ey,fr,val,sky,sig,ro,rov,ron,hj,ing,id,a,b,d,e,f,g,h,i,j,k,l,m,r,s,t,u,v
+norwegian,female,suffix,dis,da,rg,ld,hild,ja,na,sa,ka,ya,ria,rd
+norwegian,female,restrict,q,z,w,x,y
+norwegian,female,double,d,l,n
